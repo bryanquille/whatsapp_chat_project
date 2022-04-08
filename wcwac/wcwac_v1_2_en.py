@@ -79,7 +79,7 @@ def wcwac():
     # Choosing a country
     #Getting data
     dcc = pd.read_excel(
-                        'E:/CURSOS/Programming Courses/Python Courses/Projects/Whatsapp Chat/data/country_code.xlsx', 
+                        'E:/COURSES/Programming Courses/Python Courses/Projects/whatsapp_chat_project/data/country_code.xlsx', 
                         index_col=False, 
                         engine='openpyxl'
                        )
